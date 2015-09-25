@@ -12,6 +12,7 @@ CREATE TABLE `billet` (
 
 CREATE TABLE `commentaire` (
 	`id_commentaire` INT(4) NOT NULL AUTO_INCREMENT,
+	`id_billet` INT(4) NOT NULL DEFAULT '0',
 	`date` DATE NOT NULL,
 	`auteur` VARCHAR(75) NULL DEFAULT NULL,
 	`contenu` VARCHAR(255) NULL DEFAULT NULL,

@@ -1,9 +1,9 @@
 <?php
 
 
-require_once '../../Modele/Blog/Billet.php';
-require_once '../../Modele/Blog/Commentaire.php';
-require_once '../../Vue/Blog/Vue.php';
+require_once 'Modele/Billet.php';
+require_once 'Modele/Commentaire.php';
+require_once 'Vue/Vue.php';
 
 class ControleurBillet {
 

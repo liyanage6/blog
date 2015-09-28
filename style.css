@@ -41,3 +41,8 @@ h1 {
 #titreBlog, #piedBlog {
     text-align: center;
 }
+
+#txtCommentaire {
+    max-width: 50%;
+    min-width: 50%;
+}

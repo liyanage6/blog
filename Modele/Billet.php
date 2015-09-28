@@ -1,6 +1,5 @@
 <?php
 
-
 require_once 'Modele.php';
 
 class Billet extends Modele {

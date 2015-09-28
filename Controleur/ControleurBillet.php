@@ -22,4 +22,12 @@ class ControleurBillet {
         $vue = new Vue("Billet");
         $vue->generer(array('billet' => $billet, 'commentaires' => $commentaires));
     }
+
+    // Ajoute un commentaire à un billet
+    public function commenter($auteur, $contenu, $idBillet) {
+        // Sauvegarde du commentaire
+        $this->commentaire->ajouterCommentaire($auteur, $contenu, $idBillet);
+        // Actualisation de l'affichage du billet
+        $this->billet($idBillet);
+    }
 }

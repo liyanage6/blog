@@ -17,10 +17,12 @@ body {
     font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
 }
 
-h1 {
+h1,h2{
     color: white;
 }
-
+.titreAuteur{
+    color: cornflowerblue;
+}
 .titreBillet {
     margin-bottom : 0px;
 }

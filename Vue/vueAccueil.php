@@ -1,5 +1,5 @@
 
-<?php $this->titre = "Mon Blog"; ?>
+<?php $this->titre = "FootBallBlog FBB"; ?>
 
 <?php foreach ($billets as $billet): ?>
     <article>

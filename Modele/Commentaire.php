@@ -1,12 +1,12 @@
 <?php
 
-require_once('Modele.php');
+require_once 'Modele.php';
 
 class Commentaire extends Modele
 {
     // Renvoie la liste des commentaires associés à un billet
     public function getCommentaires($idBillet) {
-        $sql = 'SELECT id_commentaire, date, auteur, contenu from commentaire where id_billet=?';
+        $sql = 'SELECT id_commentaire, date, auteur, contenu FROM commentaire where id_billet=?';
         $commentaires = $this->executerRequete($sql, array($idBillet));
 
         return $commentaires;

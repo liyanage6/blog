@@ -20,4 +20,10 @@ class Billet extends Modele {
         else
             throw new Exception("Aucun billet ne correspond à l'identifiant '$idBillet'");
     }
+
+    public function ajoutBillet($titre, $contenu){
+        $sql = 'INSERT INTO billet (date, titre, contenu) VALUES (?,?,?)';
+        $date = date(DATE_W3C);
+        $this->executerRequete($sql,array($date,$titre,$contenu));
+    }
 }

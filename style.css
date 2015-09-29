@@ -20,6 +20,14 @@ body {
 h1,h2{
     color: white;
 }
+label{
+    float: left;
+    width: 0px;
+}
+input, textarea{
+    width: 250px;
+    margin-left: 150px;
+}
 .titreAuteur{
     color: cornflowerblue;
 }

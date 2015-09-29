@@ -22,6 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Billet.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modele/Billet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <marker date="1443534319390" expanded="true" signature="161:235" placeholder="SELECT id_bi..." />
+                <marker date="1443534319390" expanded="true" signature="424:493" placeholder="select id_bi..." />
+                <marker date="1443534319390" expanded="true" signature="857:898" placeholder="INSERT INTO ..." />
+                <marker date="1443534319390" expanded="true" signature="857:913" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Vue.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vue/Vue.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -34,11 +49,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Modele.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modele/Modele.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="vueAccueil.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vue/vueAccueil.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -48,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/Controleur/ControleurAccueil.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -58,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/Controleur/ControleurBillet.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -67,8 +92,8 @@
       <file leaf-file-name="Router.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Controleur/Router.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8520548">
-              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.7780822">
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -87,41 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gabarit.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vue/gabarit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="vueBillet.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vue/vueBillet.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <caret line="22" column="58" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -155,19 +150,19 @@
         <option value="$PROJECT_DIR$/Controleur/Blog/Router.php" />
         <option value="$PROJECT_DIR$/Controleur/Blog/ControleurAccueil.php" />
         <option value="$PROJECT_DIR$/Index.php" />
-        <option value="$PROJECT_DIR$/Controleur/ControleurAccueil.php" />
         <option value="$PROJECT_DIR$/Vue/vueErreur.php" />
         <option value="$PROJECT_DIR$/Vue/Gabarit.php" />
         <option value="$PROJECT_DIR$/Modele/Modele.php" />
         <option value="$PROJECT_DIR$/Vue/Vue.php" />
-        <option value="$PROJECT_DIR$/Modele/Billet.php" />
-        <option value="$PROJECT_DIR$/Controleur/Router.php" />
         <option value="$PROJECT_DIR$/Controleur/ControleurBillet.php" />
         <option value="$PROJECT_DIR$/Modele/Commentaire.php" />
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/Vue/vueAccueil.php" />
-        <option value="$PROJECT_DIR$/Vue/vueBillet.php" />
         <option value="$PROJECT_DIR$/Vue/gabarit.php" />
+        <option value="$PROJECT_DIR$/Modele/Billet.php" />
+        <option value="$PROJECT_DIR$/Vue/vueBillet.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/Controleur/ControleurAccueil.php" />
+        <option value="$PROJECT_DIR$/Vue/vueAccueil.php" />
+        <option value="$PROJECT_DIR$/Controleur/Router.php" />
       </list>
     </option>
   </component>
@@ -456,8 +451,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="SELECT id_bi..." />
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="161:235" placeholder="SELECT id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="424:493" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="857:898" placeholder="INSERT INTO ..." />
+            <marker date="1443534319390" expanded="true" signature="857:913" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -544,8 +541,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding>
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="SELECT id_bi..." />
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="161:235" placeholder="SELECT id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="424:493" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="857:898" placeholder="INSERT INTO ..." />
+            <marker date="1443534319390" expanded="true" signature="857:913" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -622,8 +621,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding>
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="SELECT id_bi..." />
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="161:235" placeholder="SELECT id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="424:493" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="857:898" placeholder="INSERT INTO ..." />
+            <marker date="1443534319390" expanded="true" signature="857:913" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -700,8 +701,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="SELECT id_bi..." />
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="161:235" placeholder="SELECT id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="424:493" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="857:898" placeholder="INSERT INTO ..." />
+            <marker date="1443534319390" expanded="true" signature="857:913" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -711,8 +714,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="SELECT id_bi..." />
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="161:235" placeholder="SELECT id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="424:493" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="857:898" placeholder="INSERT INTO ..." />
+            <marker date="1443534319390" expanded="true" signature="857:913" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
@@ -738,6 +743,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/gabarit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Modele/Modele.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -746,21 +767,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modele/Billet.php">
+    <entry file="file://$PROJECT_DIR$/Vue/Vue.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding>
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="SELECT id_bi..." />
-            <marker date="1443452731851" expanded="true" signature="-1:-1" placeholder="select id_bi..." />
+            <element signature="e#7#645#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.38356164">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -776,36 +796,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurAccueil.php">
+    <entry file="file://$PROJECT_DIR$/Modele/Billet.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Vue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <element signature="e#7#645#0#PHP" expanded="true" />
+            <marker date="1443534319390" expanded="true" signature="161:235" placeholder="SELECT id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="424:493" placeholder="select id_bi..." />
+            <marker date="1443534319390" expanded="true" signature="857:898" placeholder="INSERT INTO ..." />
+            <marker date="1443534319390" expanded="true" signature="857:913" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/vueAccueil.php">
+    <entry file="file://$PROJECT_DIR$/Controleur/ControleurBillet.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/Controleur/ControleurAccueil.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -813,31 +828,23 @@
     <entry file="file://$PROJECT_DIR$/Vue/vueBillet.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/gabarit.php">
+    <entry file="file://$PROJECT_DIR$/Vue/vueAccueil.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurBillet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Controleur/Router.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8520548">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.7780822">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
           <folding />
         </state>
       </provider>

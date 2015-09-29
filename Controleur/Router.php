@@ -36,7 +36,12 @@ class Routeur {
                     $idBillet = $this->getParametre($_POST, 'id');
                     $this->ctrlBillet->commenter($auteur, $contenu, $idBillet);
                 }
-                else
+                elseif($_GET['action'] == 'ajoutBillet'){
+                    $titre = $this->getParametre($_POST, 'titre');
+                    $contenu = $this->getParametre($_POST,'contenu');
+                    $this->ctrlAccueil->newBillet($titre, $contenu);
+                }
+            else
                     throw new Exception("Action non valide");
             }
             else {  // aucune action définie : affichage de l'accueil
